@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Behind the Operating System - Creative Coding Project</h1>
- <img src="https://github.com/Tuck1297/InteractiveExperiment_CreativeCoding"/>
+ <img src="[https://github.com/Tuck1297/InteractiveExperiment_CreativeCoding](https://github.com/Tuck1297/InteractiveExperiment_CreativeCoding/blob/main/Images/binary-creative-coding-experiment.JPG)"/>
 </div>
 
 ## Project Overview
