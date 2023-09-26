@@ -17,8 +17,6 @@ up to you to explore the settings of the internal binary code...
 
 # Plug and Play
 
-//### You can try this project out here: [Behind the Operating System](https://tuck1297.github.io/InteractiveExperiment_CreativeCoding/)
-
 Otherwise, if you want to pull it to your local development environment follow the steps below: 
 
 Steps: 
