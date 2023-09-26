@@ -17,7 +17,7 @@ up to you to explore the settings of the internal binary code...
 
 # Plug and Play
 
-Otherwise, if you want to pull it to your local development environment follow the steps below: 
+If you want to pull it to your local development environment follow the steps below: 
 
 Steps: 
 - 1. Clone the project to your local environment
